@@ -102,7 +102,7 @@ The deadline for delivery is free. However, the sooner the more chances of the v
 - Check challenge references here to help you -> [Awesome Woovi Challenge](https://github.com/entria/awesome-woovi-challenge)
 
 ### Senior
-In addition to CRUD, if you decide to venture into a senior scope you also have the task of designing a subject-based architecture as if we were going to define, plan, design, and implement our next feature core.
+In addition to CRUD, if you decide to venture into a senior scope you also have the task of designing a subject-based architecture as if we were going to define, plan, design, and implement our next feature core. 
 
 - [Woovi Leaky Bucket](https://github.com/woovibr/jobs/blob/main/challenges/woovi-leaky-bucket-challenge.md)
 
